@@ -5,6 +5,5 @@ This line added via github editor.
 This is github.
 Second line is added on github.
 Third line added from gitbash for branch merging.
-Add branch
-This line is added remotely
+This line is added remotely.
 
